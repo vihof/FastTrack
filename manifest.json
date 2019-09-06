@@ -1,0 +1,6 @@
+{
+  "name": "FastTrack",
+  "short_name": "FastTrack",
+  "start_url": "/",
+  "display": "standalone"
+}
